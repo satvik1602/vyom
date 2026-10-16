@@ -1,0 +1,35 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ===== Virtual Environment =====
+venv/
+env/
+.env/
+.venv/
+
+# ===== IDE / Editor =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== OS Artifacts =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Environment Variables =====
+.env
+*.env
+
+# ===== Logs =====
+*.log
+
+# ===== Distribution / Build =====
+dist/
+build/
+*.egg-info/
